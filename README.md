@@ -8,7 +8,7 @@
 
 Description detail here:
 
-* [Windows EXE]()
+* [Windows EXE](https://github.com/kappter/portfolio2026B1/blob/main/src/SpaceGame/Readme.md)
 * [Mac App]()
 * [Linux Executable]()
 * [Source Code]()
