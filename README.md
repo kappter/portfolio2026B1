@@ -8,6 +8,8 @@
 
 Description detail here:
 
+![UML](https://github.com/kappter/portfolio2026B1/blob/main/images/calcUML.jpg?raw=true)
+
 * [Windows EXE](https://github.com/kappter/portfolio2026B1/blob/main/src/SpaceGame/Readme.md)
 * [Mac App]()
 * [Linux Executable]()
